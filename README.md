@@ -1,7 +1,10 @@
 ## Mancala Game
 
-A three-persons team project for `CS151 - Object-Oriented Design`. This project is a window-based, GUI application replicating 
-the traditional Mancala game.
+A three-persons team project for `CS151 - Object-Oriented Design`. This project is a window-based, GUI application replicating the traditional Mancala game.
+
+<h1 align="center">
+  <img src="https://github.com/VoChrisK/Mancala-Game/blob/master/assets/mancala-gif-1.gif" alt="gif-1" />
+</h1>
 
 ## Languages/Technologies
 * Java
@@ -53,8 +56,11 @@ landing an empty pit on the
 
 ### Undo Button
 
-This project also have an undo button at the bottom. Each player can click that button to undo their previous turn. Players can have up to
-three undos per turn.
+This project also have an undo button at the bottom. Each player can click that button to undo their previous turn. Players can have up to three undos per turn.
+
+<h1 align="center">
+  <img src="https://github.com/VoChrisK/Mancala-Game/blob/master/assets/mancala-gif-2.gif" alt="gif-1" />
+</h1>
 
 ### MVC Architecture
 
