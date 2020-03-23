@@ -50,10 +50,6 @@ while(stones > 0) { //as long as there are stones to be placed in other pits
 }
 ```
 
-landing an empty pit on the 
-	 * player's side will take all stones from the player's and the opposite pits and keeping track of 
-	 * whether the player gets a free turn upon putting the last stone in the player's mancala 
-
 ### Undo Button
 
 This project also have an undo button at the bottom. Each player can click that button to undo their previous turn. Players can have up to three undos per turn.
